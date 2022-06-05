@@ -1,9 +1,10 @@
 <?php
     require './Models/Note.php';
+
 ?>
 
 <head>
-    <link rel="stylesheet" href="./styles/styles.css">
+    <link rel="stylesheet" href="styles.css">
 </head>
 
 <body>
@@ -26,6 +27,13 @@
     </div>
     <div class="topbar-item5">
         <h1>Nuova nota</h1>
+    </div>
+
+
+    <div class="login">
+        <h1>
+            <a href="form/form.php"  style="color:rgba(168, 204, 236, 0.945)"> Sign in </a>
+        </h1>
     </div>
 </div>
 <?php        
