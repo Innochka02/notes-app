@@ -1,0 +1,16 @@
+[
+    {
+        "name": "Inna",
+        "last_name": "Shukhmina",
+        "email": "inna@gmail.com",
+        "password": "hellohello",
+        "confirm_password": "hellohello"
+    },
+    {
+        "name": "Darius",
+        "last_name": "Landy",
+        "email": "myworld@gmail.com",
+        "password": "iamdarius",
+        "confirm_password": "iamdarius"
+    }
+]
